@@ -1,0 +1,12 @@
+#drift-frame-chat,
+#drift-frame-chat div,
+#drift-frame-controller,
+#drift-frame-controller div,
+.work-tag.rev{
+    display: none !important;
+}
+
+#w-node-_49135c6e-1bf4-ff5a-b338-c5f3f54d2e77-aa41b40f:hover svg path{
+    fill: #eb5e28;
+    transition: all .2s;
+}
